@@ -5,7 +5,7 @@ SF-Mono-Font with complete nerd font patch, no ligature.
 **macos**
 ``` bash
 git clone https://github.com/humbornjo/SF-Mono-Nerd-Font
-cd SF-Mono-Nerd-Font && cp ./SF* $USER/Library/Fonts/
+cd SF-Mono-Nerd-Font && cp ./SF* $HOME/Library/Fonts/
 ```
 Add font family as "SFMono Nerd Font".
 
